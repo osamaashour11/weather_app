@@ -1,0 +1,44 @@
+{
+  "url" : "https://api.openweathermap.org/data/2.5/weather?q=cairo&appid=e6324cd99bd6387f7b0c69bc4ac65a61",
+  "coord": {
+    "lon": 31.2497,
+    "lat": 30.0626
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 305.57,
+    "feels_like": 305.5,
+    "temp_min": 305.05,
+    "temp_max": 305.57,
+    "pressure": 1007,
+    "humidity": 37
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.14,
+    "deg": 340
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1661529492,
+  "sys": {
+    "type": 1,
+    "id": 2514,
+    "country": "EG",
+    "sunrise": 1661484518,
+    "sunset": 1661531134
+  },
+  "timezone": 7200,
+  "id": 360630,
+  "name": "Cairo",
+  "cod": 200
+}
